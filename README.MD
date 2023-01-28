@@ -17,3 +17,17 @@ Underline 2
 - formato **bold o strong**. forma 1.
 - formato ~~tachado~~
 - aqui podemos usar *italica* y **bold** y ~~tachado~~
+
+# Lista
+1. lista uno
+2. lista 2
+3. Lista 3
+
+- lista1 
+-  lsita2
+- lista3
+
+# Link
+- <a href="http://google.com>"> Ir a Goolge</a>
+- [Esto en un link Markdown](http://google.com>)
+- [Esto en un link Index](index.html)
