@@ -90,3 +90,24 @@ Esto es un texto referente a una cita que pondremos debajo:
 
 Esto es otro texto, hay que hacer dos enter para salir de la cita.
 
+# Lineas Horizontales
+Esto es un texto que sera dividido por una lina horizontal.
+
+---
+Esto es otra linea de texto dividido por la linea
+
+***
+esto es otro texto dividido por * asteriscos
+
+___ 
+
+se agrega otra liena arriba hecha por guinoes bajos
+
+***
+
+# Saltos de LInea
+Esto es nuestro primer parrafo.
+
+Esto es nuestro Segundo parrafo.
+
+Esto es nuestro tercer parrafo.
