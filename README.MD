@@ -76,3 +76,10 @@ function $initHighlight(block, cls) {
 
 export  $initHighlight;
 ```
+
+# Tablas
+
+| rut | Nombre | Apellido |
+| --- | ------ | -------- |
+| 123 | Rogfren | Angulo |
+| 456 | Abeline | Angulo |
